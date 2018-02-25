@@ -5,3 +5,4 @@ authors = ["Josh Crim <jshcrm@gmail.com>"]
 
 [dependencies]
 clap = "2.30.0"
+console = "0.6.1"
